@@ -1,4 +1,4 @@
-print('Calculator')
+print('Faulty - Calculator')
 print('Enter the 1st digit')
 num1 = int(input())
 print('Enter the 2nd digit')
